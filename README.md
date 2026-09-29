@@ -1,7 +1,9 @@
 # Agentic Code Intelligence — PRISM Y2026 GenAI Hackathon (Theme 01)
 
 **Team**: **Thapar_Bandits**
+
 **Members**: Lakshya Garg , Goutam Jain , Vaibhav Manchanda , Namish Mahajan
+
 **Demo video:** `<link>`
 
 ## Problem
