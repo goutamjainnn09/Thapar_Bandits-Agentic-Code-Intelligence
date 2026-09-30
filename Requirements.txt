@@ -1,5 +1,9 @@
+Before running the code install these libraries:
 1. JSON library
 2. re library
 3. numpy library
 4. SentenceTransformer from sentence_transformers library
 5. mteb(AbsEncoder,ModelMeta,ScoringFunction,PrompType
+6. os
+7. pickle
+8. time 
