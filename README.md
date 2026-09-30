@@ -4,7 +4,7 @@
 
 **Members**: Lakshya Garg , Goutam Jain , Vaibhav Manchanda , Namish Mahajan
 
-**Demo video:** `<[link](https://drive.google.com/file/d/19QdyG7ImKsjEvIOXu9b6YHmmXBtBOW91/view?usp=sharing)>`
+**Demo video:** `https://drive.google.com/file/d/19QdyG7ImKsjEvIOXu9b6YHmmXBtBOW91/view?usp=sharing`
 
 ## Problem
 
